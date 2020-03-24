@@ -21,7 +21,6 @@ ___
     * [建筑电气](https://marx-htf.github.io/建筑电气/建筑电气note.html)
     * [水资源利用与保护](https://marx-htf.github.io/水资源规划管理/水资源规划管理note.html)
     * [固体废物处理工程](https://marx-htf.github.io/固体废物/固体废物note.html)
-* 作业
     * [世界水日宣传作业](https://marx-htf.github.io/作业/世界水日宣传作业.html)
 
 
