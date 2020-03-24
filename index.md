@@ -18,6 +18,8 @@ ___
 * 笔记
     * [testing...](https://github.com/Marx-htf/Marx-htf.github.io/新建文件夹/新建文本文档.txt)
     * [bing search](https://cn.bing.com/)
+    * [testing...](https://github.com/Marx-htf/Marx-htf.github.io/新建文件夹/新建文本文档.txt)
+    * [bing search](https://cn.bing.com/)
 
 
 
